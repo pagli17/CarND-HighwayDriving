@@ -13,7 +13,7 @@
 using nlohmann::json;
 using std::string;
 using std::vector;
-const int safe_distance_same_lane = 28;
+const int safe_distance_same_lane = 30;
 const int safe_distance_lateral_lanes = 50;
 const double max_allowed_speed = 49.5;
 const double acceleration = .224;
